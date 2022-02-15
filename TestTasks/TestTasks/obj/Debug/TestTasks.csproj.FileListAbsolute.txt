@@ -1,0 +1,8 @@
+D:\c#\TestTasks\TestTasks\bin\Debug\TestTasks.exe.config
+D:\c#\TestTasks\TestTasks\bin\Debug\TestTasks.exe
+D:\c#\TestTasks\TestTasks\bin\Debug\TestTasks.pdb
+D:\c#\TestTasks\TestTasks\obj\Debug\TestTasks.csproj.AssemblyReference.cache
+D:\c#\TestTasks\TestTasks\obj\Debug\TestTasks.csproj.SuggestedBindingRedirects.cache
+D:\c#\TestTasks\TestTasks\obj\Debug\TestTasks.csproj.CoreCompileInputs.cache
+D:\c#\TestTasks\TestTasks\obj\Debug\TestTasks.exe
+D:\c#\TestTasks\TestTasks\obj\Debug\TestTasks.pdb
